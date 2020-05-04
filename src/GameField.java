@@ -22,7 +22,7 @@ public class GameField extends JPanel implements ActionListener {
     private boolean right = true;
     private boolean up = false;
     private boolean down = false;
-    private boolean inGame = true;
+    //private boolean inGame = true;
 
     public GameField (){
         setBackground(Color.black);
